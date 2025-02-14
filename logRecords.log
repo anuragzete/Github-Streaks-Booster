@@ -1,0 +1,19 @@
+Feb 14, 2025 5:09:04 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-14 17:09:04
+Feb 14, 2025 5:09:04 PM StreakBooster main
+SEVERE: An error occurred
+java.io.IOException: Cannot run program "git" (in directory "."): CreateProcess error=2, The system cannot find the file specified
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at StreakBooster.executeGitCommand(StreakBooster.java:111)
+	at StreakBooster.executeGitCommands(StreakBooster.java:68)
+	at StreakBooster.main(StreakBooster.java:34)
+Caused by: java.io.IOException: CreateProcess error=2, The system cannot find the file specified
+	at java.base/java.lang.ProcessImpl.create(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:500)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:159)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 4 more
+
+Feb 14, 2025 5:09:04 PM StreakBooster shutdown
+INFO: Shutting down resources...
