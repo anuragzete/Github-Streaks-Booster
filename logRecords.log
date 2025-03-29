@@ -1,0 +1,1877 @@
+Feb 14, 2025 5:09:04 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-14 17:09:04
+Feb 14, 2025 5:09:04 PM StreakBooster main
+SEVERE: An error occurred
+java.io.IOException: Cannot run program "git" (in directory "."): CreateProcess error=2, The system cannot find the file specified
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1170)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1089)
+	at StreakBooster.executeGitCommand(StreakBooster.java:111)
+	at StreakBooster.executeGitCommands(StreakBooster.java:68)
+	at StreakBooster.main(StreakBooster.java:34)
+Caused by: java.io.IOException: CreateProcess error=2, The system cannot find the file specified
+	at java.base/java.lang.ProcessImpl.create(Native Method)
+	at java.base/java.lang.ProcessImpl.<init>(ProcessImpl.java:500)
+	at java.base/java.lang.ProcessImpl.start(ProcessImpl.java:159)
+	at java.base/java.lang.ProcessBuilder.start(ProcessBuilder.java:1126)
+	... 4 more
+
+Feb 14, 2025 5:09:04 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 14, 2025 5:17:46 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-14 17:17:46
+Feb 14, 2025 5:17:46 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 14, 2025 5:17:46 PM StreakBooster logStream
+INFO: [main cf33fb0] Auto commit: Update timestamp and logs
+Feb 14, 2025 5:17:46 PM StreakBooster logStream
+INFO:  2 files changed, 21 insertions(+)
+Feb 14, 2025 5:17:50 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Feb 14, 2025 5:17:51 PM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Feb 14, 2025 5:17:51 PM StreakBooster logStream
+WARNING:    81e0aba..cf33fb0  main -> main
+Feb 14, 2025 5:17:51 PM StreakBooster main
+INFO: Git push successful.
+Feb 14, 2025 5:17:51 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 15, 2025 7:46:53 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-15 19:46:53
+Feb 15, 2025 7:46:54 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 15, 2025 7:46:54 PM StreakBooster logStream
+INFO: [main c7f81cc] Auto commit: Update timestamp and logs
+Feb 15, 2025 7:46:54 PM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Feb 15, 2025 7:46:57 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Feb 15, 2025 7:46:59 PM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Feb 15, 2025 7:46:59 PM StreakBooster logStream
+WARNING:    cf33fb0..c7f81cc  main -> main
+Feb 15, 2025 7:46:59 PM StreakBooster main
+INFO: Git push successful.
+Feb 15, 2025 7:46:59 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 15, 2025 7:47:35 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-15 19:47:35
+Feb 15, 2025 7:47:35 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 15, 2025 7:47:35 PM StreakBooster logStream
+INFO: [main 08b7aa4] Auto commit: Update timestamp and logs
+Feb 15, 2025 7:47:35 PM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Feb 15, 2025 7:47:37 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Feb 15, 2025 7:47:38 PM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Feb 15, 2025 7:47:38 PM StreakBooster logStream
+WARNING:    c7f81cc..08b7aa4  main -> main
+Feb 15, 2025 7:47:38 PM StreakBooster main
+INFO: Git push successful.
+Feb 15, 2025 7:47:38 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 15, 2025 8:00:01 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-15 20:00:01
+Feb 15, 2025 8:00:01 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 15, 2025 8:00:01 PM StreakBooster logStream
+INFO: [main c6fc576] Auto commit: Update timestamp and logs
+Feb 15, 2025 8:00:01 PM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Feb 15, 2025 8:00:07 PM StreakBooster isInternetConnected
+WARNING: Failed to check internet connectivity: Connect timed out
+Feb 15, 2025 8:00:07 PM StreakBooster main
+WARNING: No internet connection. Skipping Git push.
+Feb 15, 2025 8:00:07 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 15, 2025 9:00:01 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-15 21:00:01
+Feb 15, 2025 9:00:01 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 15, 2025 9:00:02 PM StreakBooster logStream
+INFO: [main a148f80] Auto commit: Update timestamp and logs
+Feb 15, 2025 9:00:02 PM StreakBooster logStream
+INFO:  2 files changed, 15 insertions(+)
+Feb 15, 2025 9:00:05 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Feb 15, 2025 9:00:06 PM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Feb 15, 2025 9:00:06 PM StreakBooster logStream
+WARNING:    08b7aa4..a148f80  main -> main
+Feb 15, 2025 9:00:06 PM StreakBooster main
+INFO: Git push successful.
+Feb 15, 2025 9:00:06 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 15, 2025 10:00:01 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-15 22:00:01
+Feb 15, 2025 10:00:01 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 15, 2025 10:00:01 PM StreakBooster logStream
+INFO: [main 1278fe6] Auto commit: Update timestamp and logs
+Feb 15, 2025 10:00:01 PM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Feb 15, 2025 10:00:04 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Feb 15, 2025 10:00:05 PM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Feb 15, 2025 10:00:05 PM StreakBooster logStream
+WARNING:    a148f80..1278fe6  main -> main
+Feb 15, 2025 10:00:05 PM StreakBooster main
+INFO: Git push successful.
+Feb 15, 2025 10:00:05 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 16, 2025 7:35:37 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-16 07:35:37
+Feb 16, 2025 7:35:38 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 16, 2025 7:35:38 AM StreakBooster logStream
+INFO: [main 04e9b9e] Auto commit: Update timestamp and logs
+Feb 16, 2025 7:35:38 AM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Feb 16, 2025 7:35:44 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 16, 2025 7:35:44 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 16, 2025 7:35:44 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 16, 2025 7:35:45 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 16, 2025 7:35:45 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 16, 2025 7:35:45 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 16, 2025 7:35:45 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Feb 16, 2025 7:36:46 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 16, 2025 7:36:46 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 16, 2025 7:36:46 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 16, 2025 7:36:46 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 16, 2025 7:36:46 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 16, 2025 7:36:46 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 16, 2025 7:36:46 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Feb 16, 2025 7:37:47 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 16, 2025 7:37:47 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 16, 2025 7:37:47 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 16, 2025 7:37:47 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 16, 2025 7:37:47 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 16, 2025 7:37:47 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 16, 2025 7:37:47 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Feb 16, 2025 7:37:47 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 16, 2025 8:00:01 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-16 08:00:01
+Feb 16, 2025 8:00:02 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 16, 2025 8:00:02 AM StreakBooster logStream
+INFO: [main 8b046ae] Auto commit: Update timestamp and logs
+Feb 16, 2025 8:00:02 AM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Feb 16, 2025 8:00:08 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 16, 2025 8:00:08 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 16, 2025 8:00:08 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 16, 2025 8:00:08 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 16, 2025 8:00:08 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 16, 2025 8:00:08 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 16, 2025 8:00:08 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Feb 16, 2025 8:01:24 AM StreakBooster logStream
+WARNING: fatal: unable to access 'https://github.com/anuragzete/Github-Streaks-Booster.git/': OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 0
+Feb 16, 2025 8:01:24 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Feb 16, 2025 8:02:29 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 16, 2025 8:02:29 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 16, 2025 8:02:29 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 16, 2025 8:02:29 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 16, 2025 8:02:29 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 16, 2025 8:02:29 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 16, 2025 8:02:29 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Feb 16, 2025 8:02:29 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 16, 2025 8:35:36 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-16 08:35:36
+Feb 16, 2025 8:35:36 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 16, 2025 8:35:36 AM StreakBooster logStream
+INFO: [main e8ae0aa] Auto commit: Update timestamp and logs
+Feb 16, 2025 8:35:36 AM StreakBooster logStream
+INFO:  2 files changed, 43 insertions(+)
+Feb 16, 2025 8:35:43 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Feb 16, 2025 8:35:47 AM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Feb 16, 2025 8:35:47 AM StreakBooster logStream
+WARNING:    1278fe6..e8ae0aa  main -> main
+Feb 16, 2025 8:35:47 AM StreakBooster main
+INFO: Git push successful.
+Feb 16, 2025 8:35:47 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 16, 2025 9:00:01 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-16 09:00:01
+Feb 16, 2025 9:00:02 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 16, 2025 9:00:02 AM StreakBooster logStream
+INFO: [main ce0d08e] Auto commit: Update timestamp and logs
+Feb 16, 2025 9:00:02 AM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Feb 16, 2025 9:00:08 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Feb 16, 2025 9:00:09 AM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Feb 16, 2025 9:00:09 AM StreakBooster logStream
+WARNING:    e8ae0aa..ce0d08e  main -> main
+Feb 16, 2025 9:00:09 AM StreakBooster main
+INFO: Git push successful.
+Feb 16, 2025 9:00:09 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 16, 2025 9:21:45 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-16 09:21:45
+Feb 16, 2025 9:21:46 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 16, 2025 9:21:46 AM StreakBooster logStream
+INFO: [main 9a8fc17] Auto commit: Update timestamp and logs
+Feb 16, 2025 9:21:46 AM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Feb 16, 2025 9:21:52 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Feb 16, 2025 9:21:53 AM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Feb 16, 2025 9:21:53 AM StreakBooster logStream
+WARNING:    ce0d08e..9a8fc17  main -> main
+Feb 16, 2025 9:21:53 AM StreakBooster main
+INFO: Git push successful.
+Feb 16, 2025 9:21:53 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 16, 2025 10:32:29 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-16 10:32:29
+Feb 16, 2025 10:32:29 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 16, 2025 10:32:29 AM StreakBooster logStream
+INFO: [main 7a25302] Auto commit: Update timestamp and logs
+Feb 16, 2025 10:32:29 AM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Feb 16, 2025 10:32:34 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Feb 16, 2025 10:32:35 AM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Feb 16, 2025 10:32:35 AM StreakBooster logStream
+WARNING:    9a8fc17..7a25302  main -> main
+Feb 16, 2025 10:32:35 AM StreakBooster main
+INFO: Git push successful.
+Feb 16, 2025 10:32:35 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 16, 2025 6:15:31 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-16 06:15:31
+Feb 16, 2025 6:15:31 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 16, 2025 6:15:31 AM StreakBooster logStream
+INFO: [main 26a05fb] Auto commit: Update timestamp and logs
+Feb 16, 2025 6:15:31 AM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Feb 16, 2025 9:33:43 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-16 09:33:43
+Feb 16, 2025 9:33:43 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 16, 2025 9:33:44 AM StreakBooster logStream
+INFO: [main d3883c3] Auto commit: Update timestamp and logs
+Feb 16, 2025 9:33:44 AM StreakBooster logStream
+INFO:  2 files changed, 9 insertions(+)
+Feb 16, 2025 9:33:53 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 16, 2025 9:33:53 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 16, 2025 9:33:53 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 16, 2025 9:33:53 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 16, 2025 9:33:53 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 16, 2025 9:33:53 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 16, 2025 9:33:53 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Feb 16, 2025 9:35:05 AM StreakBooster logStream
+WARNING: fatal: unable to access 'https://github.com/anuragzete/Github-Streaks-Booster.git/': Could not resolve host: github.com
+Feb 16, 2025 9:35:05 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Feb 16, 2025 9:36:20 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 16, 2025 9:36:20 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 16, 2025 9:36:20 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 16, 2025 9:36:20 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 16, 2025 9:36:20 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 16, 2025 9:36:20 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 16, 2025 9:36:20 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Feb 16, 2025 9:36:20 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 16, 2025 1:07:53 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-16 13:07:53
+Feb 16, 2025 1:07:53 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 16, 2025 1:07:53 PM StreakBooster logStream
+INFO: [main de46fe9] Auto commit: Update timestamp and logs
+Feb 16, 2025 1:07:53 PM StreakBooster logStream
+INFO:  2 files changed, 43 insertions(+)
+Feb 16, 2025 1:07:54 PM StreakBooster isInternetConnected
+WARNING: Failed to check internet connectivity: www.github.com
+Feb 16, 2025 1:07:54 PM StreakBooster main
+WARNING: No internet connection. Skipping Git push.
+Feb 16, 2025 1:07:54 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 17, 2025 2:47:23 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-17 02:47:23
+Feb 17, 2025 2:47:23 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 17, 2025 2:47:23 AM StreakBooster logStream
+INFO: [main 4ed44ea] Auto commit: Update timestamp and logs
+Feb 17, 2025 2:47:23 AM StreakBooster logStream
+INFO:  2 files changed, 15 insertions(+)
+Feb 17, 2025 2:47:29 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Feb 17, 2025 2:47:30 AM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Feb 17, 2025 2:47:30 AM StreakBooster logStream
+WARNING:    26a05fb..4ed44ea  main -> main
+Feb 17, 2025 2:47:30 AM StreakBooster main
+INFO: Git push successful.
+Feb 17, 2025 2:47:30 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 17, 2025 8:42:31 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-17 08:42:31
+Feb 17, 2025 8:42:31 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 17, 2025 8:51:15 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-17 08:51:15
+Feb 17, 2025 8:51:15 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 17, 2025 8:51:15 AM StreakBooster logStream
+INFO: [main 1d00eb9] Auto commit: Update timestamp and logs
+Feb 17, 2025 8:51:15 AM StreakBooster logStream
+INFO:  2 files changed, 5 insertions(+)
+Feb 17, 2025 8:59:24 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-17 20:59:24
+Feb 17, 2025 8:59:40 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 17, 2025 8:59:42 PM StreakBooster logStream
+INFO: [main 786c421] Auto commit: Update timestamp and logs
+Feb 17, 2025 8:59:42 PM StreakBooster logStream
+INFO:  2 files changed, 9 insertions(+)
+Feb 17, 2025 8:59:48 PM StreakBooster isInternetConnected
+WARNING: Failed to check internet connectivity: www.github.com
+Feb 17, 2025 8:59:48 PM StreakBooster main
+WARNING: No internet connection. Skipping Git push.
+Feb 17, 2025 8:59:48 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 18, 2025 2:51:52 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-18 14:51:52
+Feb 18, 2025 2:51:52 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 18, 2025 2:51:52 PM StreakBooster logStream
+INFO: [main 842dc80] Auto commit: Update timestamp and logs
+Feb 18, 2025 2:51:52 PM StreakBooster logStream
+INFO:  2 files changed, 15 insertions(+)
+Feb 18, 2025 2:51:57 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Feb 18, 2025 2:51:58 PM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Feb 18, 2025 2:51:58 PM StreakBooster logStream
+WARNING:    4ed44ea..842dc80  main -> main
+Feb 18, 2025 2:51:58 PM StreakBooster main
+INFO: Git push successful.
+Feb 18, 2025 2:51:58 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 18, 2025 6:07:52 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-18 18:07:52
+Feb 18, 2025 6:07:52 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 18, 2025 6:07:53 PM StreakBooster logStream
+INFO: [main ba3858b] Auto commit: Update timestamp and logs
+Feb 18, 2025 6:07:53 PM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Feb 18, 2025 6:07:57 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Feb 18, 2025 6:07:58 PM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Feb 18, 2025 6:07:58 PM StreakBooster logStream
+WARNING:    842dc80..ba3858b  main -> main
+Feb 18, 2025 6:07:58 PM StreakBooster main
+INFO: Git push successful.
+Feb 18, 2025 6:07:58 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 18, 2025 10:16:25 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-18 22:16:25
+Feb 18, 2025 10:16:25 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 18, 2025 10:16:25 PM StreakBooster logStream
+INFO: [main a0aba5a] Auto commit: Update timestamp and logs
+Feb 18, 2025 10:16:25 PM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Feb 18, 2025 10:16:30 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Feb 18, 2025 10:16:31 PM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Feb 18, 2025 10:16:31 PM StreakBooster logStream
+WARNING:    ba3858b..a0aba5a  main -> main
+Feb 18, 2025 10:16:31 PM StreakBooster main
+INFO: Git push successful.
+Feb 18, 2025 10:16:31 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 19, 2025 8:03:34 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-19 08:03:34
+Feb 19, 2025 8:03:34 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 19, 2025 8:03:34 AM StreakBooster logStream
+INFO: [main 30cd1ae] Auto commit: Update timestamp and logs
+Feb 19, 2025 8:03:34 AM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Feb 19, 2025 8:03:37 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 19, 2025 8:03:37 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 19, 2025 8:03:37 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 19, 2025 8:03:37 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 19, 2025 8:03:37 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 19, 2025 8:03:37 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 19, 2025 8:03:37 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Feb 19, 2025 8:04:38 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 19, 2025 8:04:38 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 19, 2025 8:04:38 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 19, 2025 8:04:38 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 19, 2025 8:04:38 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 19, 2025 8:04:38 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 19, 2025 8:04:38 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Feb 19, 2025 8:05:39 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 19, 2025 8:05:39 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 19, 2025 8:05:39 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 19, 2025 8:05:40 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 19, 2025 8:05:40 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 19, 2025 8:05:40 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 19, 2025 8:05:40 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Feb 19, 2025 8:05:40 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 19, 2025 11:38:52 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-19 11:38:52
+Feb 19, 2025 11:38:52 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 19, 2025 11:38:52 AM StreakBooster logStream
+INFO: [main 7baa894] Auto commit: Update timestamp and logs
+Feb 19, 2025 11:38:52 AM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Feb 19, 2025 11:38:56 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 19, 2025 11:38:56 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 19, 2025 11:38:56 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 19, 2025 11:38:56 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 19, 2025 11:38:56 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 19, 2025 11:38:56 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 19, 2025 11:38:56 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Feb 19, 2025 11:39:57 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 19, 2025 11:39:57 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 19, 2025 11:39:57 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 19, 2025 11:39:57 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 19, 2025 11:39:57 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 19, 2025 11:39:57 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 19, 2025 11:39:57 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Feb 19, 2025 11:41:06 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 19, 2025 11:41:06 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 19, 2025 11:41:06 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 19, 2025 11:41:06 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 19, 2025 11:41:06 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 19, 2025 11:41:06 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 19, 2025 11:41:06 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Feb 19, 2025 11:41:06 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 19, 2025 1:00:45 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-19 13:00:45
+Feb 19, 2025 1:01:14 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 19, 2025 1:01:14 PM StreakBooster logStream
+INFO: [main 256db95] Auto commit: Update timestamp and logs
+Feb 19, 2025 1:01:14 PM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Feb 19, 2025 1:01:32 PM StreakBooster isInternetConnected
+WARNING: Failed to check internet connectivity: www.github.com
+Feb 19, 2025 1:01:32 PM StreakBooster main
+WARNING: No internet connection. Skipping Git push.
+Feb 19, 2025 1:01:32 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 19, 2025 6:47:51 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-19 18:47:51
+Feb 19, 2025 6:47:51 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 19, 2025 6:47:51 PM StreakBooster logStream
+INFO: [main dcd262f] Auto commit: Update timestamp and logs
+Feb 19, 2025 6:47:51 PM StreakBooster logStream
+INFO:  2 files changed, 15 insertions(+)
+Feb 19, 2025 6:47:55 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 19, 2025 6:47:55 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 19, 2025 6:47:55 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 19, 2025 6:47:55 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 19, 2025 6:47:55 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 19, 2025 6:47:55 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 19, 2025 6:47:55 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Feb 19, 2025 6:48:56 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 19, 2025 6:48:56 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 19, 2025 6:48:56 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 19, 2025 6:48:56 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 19, 2025 6:48:56 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 19, 2025 6:48:56 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 19, 2025 6:48:56 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Feb 19, 2025 6:49:57 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 19, 2025 6:49:57 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 19, 2025 6:49:57 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 19, 2025 6:49:57 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 19, 2025 6:49:57 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 19, 2025 6:49:57 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 19, 2025 6:49:57 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Feb 19, 2025 6:49:57 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 19, 2025 10:31:28 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-19 22:31:28
+Feb 19, 2025 10:31:28 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 19, 2025 10:31:28 PM StreakBooster logStream
+INFO: [main f33a964] Auto commit: Update timestamp and logs
+Feb 19, 2025 10:31:28 PM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Feb 19, 2025 10:31:40 PM StreakBooster isInternetConnected
+WARNING: Failed to check internet connectivity: www.github.com
+Feb 19, 2025 10:31:40 PM StreakBooster main
+WARNING: No internet connection. Skipping Git push.
+Feb 19, 2025 10:31:40 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 20, 2025 10:30:51 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-20 22:30:51
+Feb 20, 2025 10:30:51 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 20, 2025 10:30:51 PM StreakBooster logStream
+INFO: [main 721176f] Auto commit: Update timestamp and logs
+Feb 20, 2025 10:30:51 PM StreakBooster logStream
+INFO:  2 files changed, 15 insertions(+)
+Feb 20, 2025 10:30:54 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 20, 2025 10:30:54 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 20, 2025 10:30:54 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 20, 2025 10:30:54 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 20, 2025 10:30:54 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 20, 2025 10:30:54 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 20, 2025 10:30:54 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Feb 20, 2025 10:31:57 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 20, 2025 10:31:57 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 20, 2025 10:31:57 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 20, 2025 10:31:57 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 20, 2025 10:31:57 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 20, 2025 10:31:57 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 20, 2025 10:31:57 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Feb 20, 2025 10:32:58 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 20, 2025 10:32:58 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 20, 2025 10:32:58 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 20, 2025 10:32:59 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 20, 2025 10:32:59 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 20, 2025 10:32:59 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 20, 2025 10:32:59 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Feb 20, 2025 10:32:59 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 21, 2025 7:07:53 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-21 19:07:53
+Feb 21, 2025 9:01:23 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 21, 2025 9:01:23 PM StreakBooster logStream
+INFO: [main 65defc9] Auto commit: Update timestamp and logs
+Feb 21, 2025 9:01:23 PM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Feb 21, 2025 9:01:41 PM StreakBooster isInternetConnected
+WARNING: Failed to check internet connectivity: Connect timed out
+Feb 21, 2025 9:01:41 PM StreakBooster main
+WARNING: No internet connection. Skipping Git push.
+Feb 21, 2025 9:01:41 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 22, 2025 12:14:06 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-22 00:14:06
+Feb 22, 2025 12:14:07 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 22, 2025 12:14:07 AM StreakBooster logStream
+INFO: [main dbae478] Auto commit: Update timestamp and logs
+Feb 22, 2025 12:14:07 AM StreakBooster logStream
+INFO:  1 file changed, 1 insertion(+)
+Feb 22, 2025 12:14:11 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Feb 22, 2025 12:14:11 AM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Feb 22, 2025 12:14:11 AM StreakBooster logStream
+WARNING:    7a00e8c..dbae478  main -> main
+Feb 22, 2025 12:14:11 AM StreakBooster main
+INFO: Git push successful.
+Feb 22, 2025 12:14:11 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 22, 2025 12:44:09 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-22 12:44:09
+Feb 22, 2025 12:44:09 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 22, 2025 12:44:09 PM StreakBooster logStream
+INFO: [main 2468256] Auto commit: Update timestamp and logs
+Feb 22, 2025 12:44:09 PM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Feb 22, 2025 12:44:12 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 22, 2025 12:44:12 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 22, 2025 12:44:12 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 22, 2025 12:44:12 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 22, 2025 12:44:12 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 22, 2025 12:44:12 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 22, 2025 12:44:12 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Feb 22, 2025 12:45:13 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 22, 2025 12:45:13 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 22, 2025 12:45:13 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 22, 2025 12:45:13 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 22, 2025 12:45:13 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 22, 2025 12:45:13 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 22, 2025 12:45:13 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Feb 22, 2025 12:46:15 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 22, 2025 12:46:15 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 22, 2025 12:46:15 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 22, 2025 12:46:15 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 22, 2025 12:46:15 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 22, 2025 12:46:15 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 22, 2025 12:46:15 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Feb 22, 2025 12:46:15 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 22, 2025 7:26:26 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-22 19:26:26
+Feb 22, 2025 7:26:27 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 22, 2025 7:26:27 PM StreakBooster logStream
+INFO: [main 458a76d] Auto commit: Update timestamp and logs
+Feb 22, 2025 7:26:27 PM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Feb 22, 2025 7:26:29 PM StreakBooster isInternetConnected
+WARNING: Failed to check internet connectivity: www.github.com
+Feb 22, 2025 7:26:29 PM StreakBooster main
+WARNING: No internet connection. Skipping Git push.
+Feb 22, 2025 7:26:29 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 23, 2025 11:35:29 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-23 11:35:29
+Feb 23, 2025 11:35:29 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 23, 2025 11:35:29 AM StreakBooster logStream
+INFO: [main ca18386] Auto commit: Update timestamp and logs
+Feb 23, 2025 11:35:29 AM StreakBooster logStream
+INFO:  2 files changed, 15 insertions(+)
+Feb 23, 2025 11:35:33 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 23, 2025 11:35:33 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 23, 2025 11:35:33 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 23, 2025 11:35:33 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 23, 2025 11:35:33 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 23, 2025 11:35:33 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 23, 2025 11:35:33 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Feb 23, 2025 11:36:34 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 23, 2025 11:36:34 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 23, 2025 11:36:34 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 23, 2025 11:36:35 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 23, 2025 11:36:35 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 23, 2025 11:36:35 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 23, 2025 11:36:35 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Feb 23, 2025 11:37:36 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 23, 2025 11:37:36 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 23, 2025 11:37:36 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 23, 2025 11:37:36 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 23, 2025 11:37:36 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 23, 2025 11:37:36 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 23, 2025 11:37:36 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Feb 23, 2025 11:37:36 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 23, 2025 1:52:30 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-23 13:52:30
+Feb 23, 2025 1:52:30 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 23, 2025 1:52:30 PM StreakBooster logStream
+INFO: [main a314ca1] Auto commit: Update timestamp and logs
+Feb 23, 2025 1:52:30 PM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Feb 23, 2025 1:52:32 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 23, 2025 1:52:32 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 23, 2025 1:52:32 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 23, 2025 1:52:32 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 23, 2025 1:52:32 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 23, 2025 1:52:32 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 23, 2025 1:52:32 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Feb 23, 2025 1:53:34 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 23, 2025 1:53:34 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 23, 2025 1:53:34 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 23, 2025 1:53:34 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 23, 2025 1:53:34 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 23, 2025 1:53:34 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 23, 2025 1:53:34 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Feb 23, 2025 1:54:36 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 23, 2025 1:54:36 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 23, 2025 1:54:36 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 23, 2025 1:54:36 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 23, 2025 1:54:36 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 23, 2025 1:54:36 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 23, 2025 1:54:36 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Feb 23, 2025 1:54:36 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 23, 2025 6:55:50 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-23 18:55:50
+Feb 23, 2025 6:55:50 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 23, 2025 6:55:50 PM StreakBooster logStream
+INFO: [main ecae29e] Auto commit: Update timestamp and logs
+Feb 23, 2025 6:55:50 PM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Feb 23, 2025 6:55:53 PM StreakBooster isInternetConnected
+WARNING: Failed to check internet connectivity: www.github.com
+Feb 23, 2025 6:55:53 PM StreakBooster main
+WARNING: No internet connection. Skipping Git push.
+Feb 23, 2025 6:55:53 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 23, 2025 11:39:37 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-23 23:39:37
+Feb 23, 2025 11:39:38 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 23, 2025 11:39:38 PM StreakBooster logStream
+INFO: [main 3bcc280] Auto commit: Update timestamp and logs
+Feb 23, 2025 11:39:38 PM StreakBooster logStream
+INFO:  2 files changed, 15 insertions(+)
+Feb 23, 2025 11:39:46 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Feb 23, 2025 11:39:46 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Feb 23, 2025 11:39:47 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Feb 23, 2025 11:39:47 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Feb 23, 2025 11:39:47 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Feb 23, 2025 11:39:47 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Feb 23, 2025 11:39:47 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Feb 23, 2025 11:40:52 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Feb 23, 2025 11:40:54 PM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Feb 23, 2025 11:40:54 PM StreakBooster logStream
+WARNING:    dbae478..3bcc280  main -> main
+Feb 23, 2025 11:40:54 PM StreakBooster main
+INFO: Git push successful.
+Feb 23, 2025 11:40:54 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 24, 2025 6:06:17 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-24 18:06:17
+Feb 24, 2025 6:06:17 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 24, 2025 6:06:17 PM StreakBooster logStream
+INFO: [main 3f35a3e] Auto commit: Update timestamp and logs
+Feb 24, 2025 6:06:17 PM StreakBooster logStream
+INFO:  2 files changed, 33 insertions(+)
+Feb 24, 2025 6:06:29 PM StreakBooster isInternetConnected
+WARNING: Failed to check internet connectivity: www.github.com
+Feb 24, 2025 6:06:29 PM StreakBooster main
+WARNING: No internet connection. Skipping Git push.
+Feb 24, 2025 6:06:29 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Feb 25, 2025 1:10:22 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-02-25 13:10:22
+Feb 25, 2025 1:10:22 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Feb 25, 2025 1:10:22 PM StreakBooster logStream
+INFO: [main 68d501b] Auto commit: Update timestamp and logs
+Feb 25, 2025 1:10:22 PM StreakBooster logStream
+INFO:  2 files changed, 15 insertions(+)
+Feb 25, 2025 1:10:36 PM StreakBooster isInternetConnected
+WARNING: Failed to check internet connectivity: www.github.com
+Feb 25, 2025 1:10:36 PM StreakBooster main
+WARNING: No internet connection. Skipping Git push.
+Feb 25, 2025 1:10:36 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 10, 2025 12:36:06 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-10 12:36:06
+Mar 10, 2025 12:36:07 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 10, 2025 12:36:08 PM StreakBooster logStream
+INFO: [main 1c4f24b] Auto commit: Update timestamp and logs
+Mar 10, 2025 12:36:08 PM StreakBooster logStream
+INFO:  2 files changed, 15 insertions(+)
+Mar 10, 2025 12:36:29 PM StreakBooster isInternetConnected
+WARNING: Failed to check internet connectivity: Remote host terminated the handshake
+Mar 10, 2025 12:36:29 PM StreakBooster main
+WARNING: No internet connection. Skipping Git push.
+Mar 10, 2025 12:36:29 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 10, 2025 2:39:24 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-10 14:39:24
+Mar 10, 2025 2:39:24 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 10, 2025 2:39:25 PM StreakBooster logStream
+INFO: [main 8813148] Auto commit: Update timestamp and logs
+Mar 10, 2025 2:39:25 PM StreakBooster logStream
+INFO:  2 files changed, 15 insertions(+)
+Mar 10, 2025 2:42:20 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 10, 2025 2:42:20 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 10, 2025 2:42:20 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 10, 2025 2:42:20 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 10, 2025 2:42:20 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 10, 2025 2:42:20 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 10, 2025 2:42:20 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Mar 10, 2025 2:43:21 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 10, 2025 2:43:21 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 10, 2025 2:43:21 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 10, 2025 2:43:21 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 10, 2025 2:43:21 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 10, 2025 2:43:21 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 10, 2025 2:43:22 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Mar 10, 2025 2:44:23 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 10, 2025 2:44:23 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 10, 2025 2:44:23 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 10, 2025 2:44:23 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 10, 2025 2:44:23 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 10, 2025 2:44:23 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 10, 2025 2:44:23 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Mar 10, 2025 2:44:23 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 15, 2025 8:53:01 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-15 08:53:01
+Mar 15, 2025 8:53:01 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 15, 2025 8:53:02 AM StreakBooster logStream
+INFO: [main 7a3b51c] Auto commit: Update timestamp and logs
+Mar 15, 2025 8:53:02 AM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Mar 15, 2025 9:08:52 AM StreakBooster logStream
+WARNING: fatal: unable to access 'https://github.com/anuragzete/Github-Streaks-Booster.git/': Recv failure: Connection was reset
+Mar 15, 2025 9:08:52 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Mar 15, 2025 9:11:13 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Mar 15, 2025 9:11:14 AM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Mar 15, 2025 9:11:14 AM StreakBooster logStream
+WARNING:    3bcc280..7a3b51c  main -> main
+Mar 15, 2025 9:11:14 AM StreakBooster main
+INFO: Git push successful.
+Mar 15, 2025 9:11:14 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 15, 2025 10:11:55 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-15 22:11:55
+Mar 15, 2025 10:11:55 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 15, 2025 10:11:55 PM StreakBooster logStream
+INFO: [main e87d3b7] Auto commit: Update timestamp and logs
+Mar 15, 2025 10:11:55 PM StreakBooster logStream
+INFO:  2 files changed, 23 insertions(+)
+Mar 15, 2025 10:12:00 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 15, 2025 10:12:00 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 15, 2025 10:12:00 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 15, 2025 10:12:00 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 15, 2025 10:12:00 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 15, 2025 10:12:00 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 15, 2025 10:12:00 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Mar 15, 2025 10:13:01 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 15, 2025 10:13:01 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 15, 2025 10:13:01 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 15, 2025 10:13:01 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 15, 2025 10:13:01 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 15, 2025 10:13:01 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 15, 2025 10:13:01 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Mar 15, 2025 10:14:03 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 15, 2025 10:14:03 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 15, 2025 10:14:03 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 15, 2025 10:14:03 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 15, 2025 10:14:03 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 15, 2025 10:14:03 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 15, 2025 10:14:03 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Mar 15, 2025 10:14:03 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 17, 2025 6:08:10 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-17 18:08:10
+Mar 17, 2025 6:08:10 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 17, 2025 6:08:11 PM StreakBooster logStream
+INFO: [main 63cb2e4] Auto commit: Update timestamp and logs
+Mar 17, 2025 6:08:11 PM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Mar 17, 2025 6:08:28 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 17, 2025 6:08:28 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 17, 2025 6:08:29 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 17, 2025 6:08:29 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 17, 2025 6:08:29 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 17, 2025 6:08:29 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 17, 2025 6:08:29 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Mar 17, 2025 6:09:32 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 17, 2025 6:09:32 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 17, 2025 6:09:32 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 17, 2025 6:09:32 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 17, 2025 6:09:32 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 17, 2025 6:09:32 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 17, 2025 6:09:33 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Mar 17, 2025 6:10:38 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 17, 2025 6:10:38 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 17, 2025 6:10:38 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 17, 2025 6:10:38 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 17, 2025 6:10:38 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 17, 2025 6:10:38 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 17, 2025 6:10:38 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Mar 17, 2025 6:10:38 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 18, 2025 8:43:09 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-18 08:43:09
+Mar 18, 2025 8:43:09 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 18, 2025 8:43:10 AM StreakBooster logStream
+INFO: [main cd2d619] Auto commit: Update timestamp and logs
+Mar 18, 2025 8:43:10 AM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Mar 18, 2025 8:49:07 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 18, 2025 8:49:07 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 18, 2025 8:49:07 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 18, 2025 8:49:07 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 18, 2025 8:49:07 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 18, 2025 8:49:07 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 18, 2025 8:49:07 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Mar 18, 2025 12:36:11 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 18, 2025 12:36:11 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 18, 2025 12:36:11 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 18, 2025 12:36:11 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 18, 2025 12:36:11 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 18, 2025 12:36:11 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 18, 2025 12:36:11 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Mar 18, 2025 12:37:19 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 18, 2025 12:37:19 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 18, 2025 12:37:19 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 18, 2025 12:37:20 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 18, 2025 12:37:20 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 18, 2025 12:37:20 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 18, 2025 12:37:20 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Mar 18, 2025 12:37:20 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 18, 2025 12:49:16 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-18 12:49:16
+Mar 18, 2025 12:49:16 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 18, 2025 12:49:16 PM StreakBooster logStream
+INFO: [main 6efd81e] Auto commit: Update timestamp and logs
+Mar 18, 2025 12:49:16 PM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Mar 18, 2025 12:49:18 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 18, 2025 12:49:18 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 18, 2025 12:49:18 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 18, 2025 12:49:18 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 18, 2025 12:49:18 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 18, 2025 12:49:18 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 18, 2025 12:49:18 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Mar 18, 2025 12:50:20 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 18, 2025 12:50:20 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 18, 2025 12:50:20 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 18, 2025 12:50:20 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 18, 2025 12:50:20 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 18, 2025 12:50:20 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 18, 2025 12:50:20 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Mar 18, 2025 12:51:22 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 18, 2025 12:51:22 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 18, 2025 12:51:22 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 18, 2025 12:51:22 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 18, 2025 12:51:22 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 18, 2025 12:51:22 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 18, 2025 12:51:22 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Mar 18, 2025 12:51:22 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 18, 2025 2:43:13 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-18 14:43:13
+Mar 18, 2025 2:43:14 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 18, 2025 2:43:14 PM StreakBooster logStream
+INFO: [main 2a6cdd9] Auto commit: Update timestamp and logs
+Mar 18, 2025 2:43:14 PM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Mar 18, 2025 2:43:51 PM StreakBooster isInternetConnected
+WARNING: Failed to check internet connectivity: www.github.com
+Mar 18, 2025 2:43:51 PM StreakBooster main
+WARNING: No internet connection. Skipping Git push.
+Mar 18, 2025 2:43:51 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 20, 2025 8:36:00 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-20 08:36:00
+Mar 20, 2025 8:36:00 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 20, 2025 8:36:00 AM StreakBooster logStream
+INFO: [main eea06fe] Auto commit: Update timestamp and logs
+Mar 20, 2025 8:36:00 AM StreakBooster logStream
+INFO:  2 files changed, 15 insertions(+)
+Mar 20, 2025 8:36:05 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Mar 20, 2025 8:36:05 AM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Mar 20, 2025 8:36:05 AM StreakBooster logStream
+WARNING:    7a3b51c..eea06fe  main -> main
+Mar 20, 2025 8:36:05 AM StreakBooster main
+INFO: Git push successful.
+Mar 20, 2025 8:36:06 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 20, 2025 2:15:36 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-20 14:15:36
+Mar 20, 2025 2:15:37 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 20, 2025 2:15:37 PM StreakBooster logStream
+INFO: [main ceebe12] Auto commit: Update timestamp and logs
+Mar 20, 2025 2:15:37 PM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Mar 20, 2025 2:15:40 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 20, 2025 2:15:40 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 20, 2025 2:15:40 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 20, 2025 2:15:40 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 20, 2025 2:15:40 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 20, 2025 2:15:40 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 20, 2025 2:15:40 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Mar 20, 2025 3:22:54 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 20, 2025 3:22:54 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 20, 2025 3:22:54 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 20, 2025 3:22:54 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 20, 2025 3:22:54 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 20, 2025 3:22:54 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 20, 2025 3:22:54 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Mar 20, 2025 3:23:56 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 20, 2025 3:23:56 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 20, 2025 3:23:56 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 20, 2025 3:23:56 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 20, 2025 3:23:56 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 20, 2025 3:23:56 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 20, 2025 3:23:56 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Mar 20, 2025 3:23:56 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 20, 2025 8:17:09 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-20 20:17:09
+Mar 20, 2025 8:17:09 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 20, 2025 8:53:51 PM StreakBooster logStream
+INFO: [main 8b4c94b] Auto commit: Update timestamp and logs
+Mar 20, 2025 8:53:51 PM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Mar 20, 2025 8:54:14 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 20, 2025 8:54:14 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 20, 2025 8:54:14 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 20, 2025 8:54:15 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 20, 2025 8:54:15 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 20, 2025 8:54:15 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 20, 2025 8:54:15 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Mar 20, 2025 8:55:16 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 20, 2025 8:55:16 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 20, 2025 8:55:16 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 20, 2025 8:55:17 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 20, 2025 8:55:17 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 20, 2025 8:55:17 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 20, 2025 8:55:17 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Mar 20, 2025 8:56:18 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 20, 2025 8:56:18 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 20, 2025 8:56:18 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 20, 2025 8:56:18 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 20, 2025 8:56:18 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 20, 2025 8:56:18 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 20, 2025 8:56:18 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Mar 20, 2025 8:56:18 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 21, 2025 8:55:46 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-21 08:55:46
+Mar 21, 2025 8:56:03 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 21, 2025 8:56:03 AM StreakBooster logStream
+INFO: [main d51289f] Auto commit: Update timestamp and logs
+Mar 21, 2025 8:56:03 AM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Mar 21, 2025 8:56:58 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 21, 2025 8:56:58 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 21, 2025 8:56:58 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 21, 2025 8:56:59 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 21, 2025 8:56:59 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 21, 2025 8:56:59 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 21, 2025 8:56:59 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Mar 21, 2025 8:58:00 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 21, 2025 8:58:00 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 21, 2025 8:58:00 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 21, 2025 8:58:00 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 21, 2025 8:58:00 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 21, 2025 8:58:00 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 21, 2025 8:58:00 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Mar 21, 2025 8:59:01 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 21, 2025 8:59:01 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 21, 2025 8:59:01 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 21, 2025 8:59:01 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 21, 2025 8:59:01 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 21, 2025 8:59:01 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 21, 2025 8:59:01 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Mar 21, 2025 8:59:01 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 22, 2025 12:36:32 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-22 12:36:32
+Mar 22, 2025 12:36:35 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 22, 2025 12:36:37 PM StreakBooster logStream
+INFO: [main 66e90bc] Auto commit: Update timestamp and logs
+Mar 22, 2025 12:36:37 PM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Mar 22, 2025 12:36:53 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 22, 2025 12:36:53 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 22, 2025 12:36:53 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 22, 2025 12:36:53 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 22, 2025 12:36:53 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 22, 2025 12:36:53 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 22, 2025 12:36:53 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Mar 22, 2025 12:37:54 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 22, 2025 12:37:54 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 22, 2025 12:37:54 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 22, 2025 12:37:54 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 22, 2025 12:37:54 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 22, 2025 12:37:54 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 22, 2025 12:37:54 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Mar 22, 2025 12:38:55 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 22, 2025 12:38:55 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 22, 2025 12:38:55 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 22, 2025 12:38:55 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 22, 2025 12:38:55 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 22, 2025 12:38:55 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 22, 2025 12:38:55 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Mar 22, 2025 12:38:55 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 26, 2025 1:01:32 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-26 13:01:32
+Mar 26, 2025 1:01:32 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 26, 2025 1:01:32 PM StreakBooster logStream
+INFO: [main 06e51b1] Auto commit: Update timestamp and logs
+Mar 26, 2025 1:01:32 PM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Mar 26, 2025 1:01:35 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 26, 2025 1:01:35 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 26, 2025 1:01:35 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 26, 2025 1:01:35 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 26, 2025 1:01:35 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 26, 2025 1:01:35 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 26, 2025 1:01:36 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Mar 26, 2025 1:02:37 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 26, 2025 1:02:37 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 26, 2025 1:02:37 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 26, 2025 1:02:37 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 26, 2025 1:02:37 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 26, 2025 1:02:37 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 26, 2025 1:02:37 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Mar 26, 2025 1:03:42 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 26, 2025 1:03:42 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 26, 2025 1:03:42 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 26, 2025 1:03:42 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 26, 2025 1:03:42 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 26, 2025 1:03:42 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 26, 2025 1:03:42 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Mar 26, 2025 1:03:43 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 26, 2025 5:11:50 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-26 17:11:50
+Mar 26, 2025 5:11:51 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 26, 2025 5:11:51 PM StreakBooster logStream
+INFO: [main 1eb51a8] Auto commit: Update timestamp and logs
+Mar 26, 2025 5:11:51 PM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Mar 26, 2025 5:11:56 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 26, 2025 5:11:56 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 26, 2025 5:11:56 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 26, 2025 5:11:56 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 26, 2025 5:11:56 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 26, 2025 5:11:56 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 26, 2025 5:11:56 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Mar 26, 2025 5:12:57 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 26, 2025 5:12:57 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 26, 2025 5:12:57 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 26, 2025 5:12:57 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 26, 2025 5:12:57 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 26, 2025 5:12:57 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 26, 2025 5:12:57 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Mar 26, 2025 5:13:59 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 26, 2025 5:13:59 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 26, 2025 5:13:59 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 26, 2025 5:13:59 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 26, 2025 5:13:59 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 26, 2025 5:13:59 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 26, 2025 5:13:59 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Mar 26, 2025 5:13:59 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 26, 2025 6:46:47 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-26 18:46:47
+Mar 26, 2025 6:46:47 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 26, 2025 6:46:47 PM StreakBooster logStream
+INFO: [main 92a3b9f] Auto commit: Update timestamp and logs
+Mar 26, 2025 6:46:47 PM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Mar 26, 2025 7:20:22 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 26, 2025 7:20:22 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 26, 2025 7:20:22 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 26, 2025 7:20:22 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 26, 2025 7:20:22 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 26, 2025 7:20:22 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 26, 2025 7:20:23 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Mar 26, 2025 7:21:24 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 26, 2025 7:21:24 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 26, 2025 7:21:24 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 26, 2025 7:21:24 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 26, 2025 7:21:24 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 26, 2025 7:21:24 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 26, 2025 7:21:24 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Mar 26, 2025 7:22:26 PM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 26, 2025 7:22:26 PM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 26, 2025 7:22:26 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 26, 2025 7:22:26 PM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 26, 2025 7:22:26 PM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 26, 2025 7:22:26 PM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 26, 2025 7:22:26 PM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Mar 26, 2025 7:22:26 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 27, 2025 9:13:06 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-27 09:13:06
+Mar 27, 2025 9:13:06 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 27, 2025 9:13:06 AM StreakBooster logStream
+INFO: [main 8b6d8a2] Auto commit: Update timestamp and logs
+Mar 27, 2025 9:13:06 AM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Mar 27, 2025 9:13:10 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 27, 2025 9:13:10 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 27, 2025 9:13:10 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 27, 2025 9:13:10 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 27, 2025 9:13:10 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 27, 2025 9:13:10 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 27, 2025 9:13:10 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Mar 27, 2025 9:14:11 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 27, 2025 9:14:11 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 27, 2025 9:14:11 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 27, 2025 9:14:12 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 27, 2025 9:14:12 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 27, 2025 9:14:12 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 27, 2025 9:14:12 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Mar 27, 2025 9:15:14 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 27, 2025 9:15:14 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 27, 2025 9:15:14 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 27, 2025 9:15:14 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 27, 2025 9:15:14 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 27, 2025 9:15:14 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 27, 2025 9:15:14 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Mar 27, 2025 9:15:14 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 27, 2025 12:39:31 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-27 12:39:31
+Mar 27, 2025 12:39:31 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 27, 2025 12:39:31 PM StreakBooster logStream
+INFO: [main 77ac473] Auto commit: Update timestamp and logs
+Mar 27, 2025 12:39:31 PM StreakBooster logStream
+INFO:  2 files changed, 53 insertions(+)
+Mar 27, 2025 12:39:32 PM StreakBooster isInternetConnected
+WARNING: Failed to check internet connectivity: www.github.com
+Mar 27, 2025 12:39:32 PM StreakBooster main
+WARNING: No internet connection. Skipping Git push.
+Mar 27, 2025 12:39:32 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 27, 2025 6:06:00 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-27 18:06:00
+Mar 27, 2025 6:06:00 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 27, 2025 6:06:00 PM StreakBooster logStream
+INFO: [main 2eb3195] Auto commit: Update timestamp and logs
+Mar 27, 2025 6:06:00 PM StreakBooster logStream
+INFO:  2 files changed, 15 insertions(+)
+Mar 27, 2025 6:06:05 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Mar 27, 2025 6:06:06 PM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Mar 27, 2025 6:06:06 PM StreakBooster logStream
+WARNING:    eea06fe..2eb3195  main -> main
+Mar 27, 2025 6:06:06 PM StreakBooster main
+INFO: Git push successful.
+Mar 27, 2025 6:06:06 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 28, 2025 8:43:28 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-28 08:43:28
+Mar 28, 2025 8:43:28 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 28, 2025 8:43:28 AM StreakBooster logStream
+INFO: [main 3e1aa8f] Auto commit: Update timestamp and logs
+Mar 28, 2025 8:43:28 AM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Mar 28, 2025 8:43:40 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Mar 28, 2025 8:43:41 AM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Mar 28, 2025 8:43:41 AM StreakBooster logStream
+WARNING:    2eb3195..3e1aa8f  main -> main
+Mar 28, 2025 8:43:41 AM StreakBooster main
+INFO: Git push successful.
+Mar 28, 2025 8:43:41 AM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 28, 2025 12:12:06 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-28 12:12:06
+Mar 28, 2025 12:12:06 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 28, 2025 12:12:06 PM StreakBooster logStream
+INFO: [main 7d7b00b] Auto commit: Update timestamp and logs
+Mar 28, 2025 12:12:06 PM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Mar 28, 2025 12:12:17 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Mar 28, 2025 12:12:18 PM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Mar 28, 2025 12:12:18 PM StreakBooster logStream
+WARNING:    3e1aa8f..7d7b00b  main -> main
+Mar 28, 2025 12:12:18 PM StreakBooster main
+INFO: Git push successful.
+Mar 28, 2025 12:12:18 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 28, 2025 3:32:34 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-28 15:32:34
+Mar 28, 2025 3:32:35 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 28, 2025 3:32:35 PM StreakBooster logStream
+INFO: [main 7fa85d1] Auto commit: Update timestamp and logs
+Mar 28, 2025 3:32:35 PM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Mar 28, 2025 3:32:42 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Mar 28, 2025 3:32:42 PM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Mar 28, 2025 3:32:42 PM StreakBooster logStream
+WARNING:    7d7b00b..7fa85d1  main -> main
+Mar 28, 2025 3:32:42 PM StreakBooster main
+INFO: Git push successful.
+Mar 28, 2025 3:32:42 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 28, 2025 6:57:02 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-28 18:57:02
+Mar 28, 2025 6:57:02 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 28, 2025 6:57:03 PM StreakBooster logStream
+INFO: [main 749123a] Auto commit: Update timestamp and logs
+Mar 28, 2025 6:57:03 PM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Mar 28, 2025 6:57:03 PM StreakBooster isInternetConnected
+WARNING: Failed to check internet connectivity: www.github.com
+Mar 28, 2025 6:57:03 PM StreakBooster main
+WARNING: No internet connection. Skipping Git push.
+Mar 28, 2025 6:57:03 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 28, 2025 10:03:34 PM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-28 22:03:34
+Mar 28, 2025 10:03:34 PM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 28, 2025 10:03:34 PM StreakBooster logStream
+INFO: [main fe3803c] Auto commit: Update timestamp and logs
+Mar 28, 2025 10:03:34 PM StreakBooster logStream
+INFO:  2 files changed, 15 insertions(+)
+Mar 28, 2025 10:03:37 PM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe store: line 1: C:/Program: No such file or directory
+Mar 28, 2025 10:03:38 PM StreakBooster logStream
+WARNING: To https://github.com/anuragzete/Github-Streaks-Booster.git
+Mar 28, 2025 10:03:38 PM StreakBooster logStream
+WARNING:    7fa85d1..fe3803c  main -> main
+Mar 28, 2025 10:03:38 PM StreakBooster main
+INFO: Git push successful.
+Mar 28, 2025 10:03:38 PM StreakBooster shutdown
+INFO: Shutting down resources...
+Mar 29, 2025 5:49:59 AM StreakBooster writeTimestampToFile
+INFO: Timestamp written to file: 2025-03-29 05:49:59
+Mar 29, 2025 5:49:59 AM StreakBooster logStream
+WARNING: warning: in the working copy of 'records.txt', LF will be replaced by CRLF the next time Git touches it
+Mar 29, 2025 5:49:59 AM StreakBooster logStream
+INFO: [main c226675] Auto commit: Update timestamp and logs
+Mar 29, 2025 5:49:59 AM StreakBooster logStream
+INFO:  2 files changed, 19 insertions(+)
+Mar 29, 2025 5:50:03 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 29, 2025 5:50:03 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 29, 2025 5:50:03 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 29, 2025 5:50:03 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 29, 2025 5:50:03 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 29, 2025 5:50:03 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 29, 2025 5:50:03 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 1): Git command failed with exit code: 128
+Mar 29, 2025 7:18:31 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 29, 2025 7:18:31 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 29, 2025 7:18:31 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 29, 2025 7:18:31 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 29, 2025 7:18:31 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 29, 2025 7:18:31 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 29, 2025 7:18:31 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 2): Git command failed with exit code: 128
+Mar 29, 2025 7:19:33 AM StreakBooster logStream
+WARNING: fatal: Unable to persist credentials with the 'wincredman' credential store.
+Mar 29, 2025 7:19:33 AM StreakBooster logStream
+WARNING: See https://aka.ms/gcm/credstores for more information.
+Mar 29, 2025 7:19:33 AM StreakBooster logStream
+WARNING: C:/Program Files/Git/mnt/c/Program Files/Git/mingw64/bin/git-credential-manager.exe get: line 1: C:/Program: No such file or directory
+Mar 29, 2025 7:19:33 AM StreakBooster logStream
+WARNING: bash: line 1: /dev/tty: No such device or address
+Mar 29, 2025 7:19:33 AM StreakBooster logStream
+WARNING: error: failed to execute prompt script (exit code 1)
+Mar 29, 2025 7:19:33 AM StreakBooster logStream
+WARNING: fatal: could not read Username for 'https://github.com': No such file or directory
+Mar 29, 2025 7:19:33 AM StreakBooster executeGitPushWithRetries
+WARNING: Git push failed (Attempt 3): Git command failed with exit code: 128
+Mar 29, 2025 7:19:33 AM StreakBooster shutdown
+INFO: Shutting down resources...
