@@ -10,6 +10,9 @@ GitHub Streak Booster is an automated script that ensures your GitHub contributi
 - Runs as a Windows service for automation.
 - Logs all activity in `logRecords.log`.
 
+## 🔍 Documentation
+👉 **[View Javadocs](https://anuragzete.github.io/Github-Streaks-Booster/StreakBooster.html)** 📚
+
 ## ✨ Features
 - 🕒 **Automated GitHub Contributions**
 - 🚀 **Retry Mechanism for Failures**
