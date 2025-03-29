@@ -1,1 +1,0 @@
-tagSearchIndex = [{"l":"Constant Field Values","h":"","u":"constant-values.html"},{"l":"🛠️ Features:","h":"class StreakBooster","d":"Section","u":"StreakBooster.html#-features--heading"}];updateSearchResults();
